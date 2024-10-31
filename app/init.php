@@ -1,6 +1,5 @@
 <?php
 
-include_once "core/App.php";
-include_once "core/Controller.php";
-
-?>
+require_once 'core/App.php';
+require_once 'core/Controller.php';
+require_once 'core/Constants.php';

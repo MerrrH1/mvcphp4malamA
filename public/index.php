@@ -1,7 +1,5 @@
 <?php
 
-include_once "../app/init.php";
+require_once '../app/init.php';
 
-$app = new App;
-
-?>
+$a = new App();
