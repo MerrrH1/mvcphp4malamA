@@ -1,5 +1,5 @@
 <?php
 
-define('BASEURL', 'http://localhost/phpmvcmalamA/public/');
+define('BASEURL', 'http://localhost/phpmvcmalamA/public');
 
 ?>
